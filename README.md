@@ -1,6 +1,6 @@
 # Char-RNN-PyTorch
 使用字符级别的RNN进行文本生成，使用PyTorch框架。[Gluon实现](https://github.com/SherlockLiao/Char-RNN-Gluon)
-
+# 比较容易操作的一种方法把文本风格RNN生成化
 ## Requirements
 [PyTorch 0.3](http://pytorch.org/)
 
